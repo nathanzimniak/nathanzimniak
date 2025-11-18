@@ -1,1 +1,1 @@
-![texte alternatif](./test.png)
+<img src="./test.png" alt="test" width="300">
