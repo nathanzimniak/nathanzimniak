@@ -17,3 +17,10 @@ Email ......................................... nathan.zimniak@protonmail.com
 LinkedIn ..................................................... Nathan Zimniak
 GitHub ....................................................... nathan.zimniak
 Leetcode ............................................................ Nathzed
+
+Copier/Coller sur https://carbon.now.sh
+Titres: #FFFFFF ou ?
+Orange: #f68166
+Gris foncé: #9298a1
+Bleu clair: #5A9CF2
+Fond: #0d1117 ou #FFFFFF
