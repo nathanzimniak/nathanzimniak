@@ -3,3 +3,4 @@
 </div>
 
 ![test](./test.png)
+![test](./carbon.svg)
