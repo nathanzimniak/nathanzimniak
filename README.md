@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./carbon(27).svg" alt="test" />
-</div>
-
 <a href="https://github.com/nathanzimniak/nathanzimniak">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./carbon(27).svg">
