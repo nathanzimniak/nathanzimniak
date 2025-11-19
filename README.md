@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./carbon(3).png" alt="test" />
+  <img src="./carbon(20).svg" alt="test" />
 </div>
