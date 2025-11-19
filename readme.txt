@@ -1,3 +1,5 @@
+                        Welcome to my GitHub profile!
+
 --------------------- Numerical & Computing Environment ---------------------
 
 Operating systems ..................................... MacOS, Linux, Windows
@@ -15,7 +17,7 @@ Classical mechanics .............. Celestial mechanics, Hamiltonian mechanics
 
 Email ......................................... nathan.zimniak@protonmail.com
 LinkedIn ..................................................... Nathan Zimniak
-GitHub ....................................................... nathan.zimniak
+GitHub ........................................................ nathanzimniak
 Leetcode ............................................................ Nathzed
 
 Copier/Coller sur https://carbon.now.sh
