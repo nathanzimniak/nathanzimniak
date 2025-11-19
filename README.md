@@ -3,5 +3,7 @@
 </div>
 
 <div align="center">
-  ![test](./carbon(2).svg)
+  <img src="./carbon(2).svg" alt="test" />
 </div>
+
+![test](./carbon(2).svg)
