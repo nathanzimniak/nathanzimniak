@@ -15,5 +15,3 @@
   </picture>
 </a>
 </p>
-
-[![Profile last updated](https://img.shields.io/github/last-commit/nathanzimniak/nathanzimniak/main?label=Last%20updated&style=flat&color=green)](https://github.com/nathanzimniak/nathanzimniak/commits)
