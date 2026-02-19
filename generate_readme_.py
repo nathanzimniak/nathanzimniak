@@ -5,7 +5,7 @@ import svgwrite
 # Configuration globale (thème, padding, police…)
 # =====================================================================
 
-THEME       = "dark"
+THEME       = "light"
 PADDING     = [0,10,0,10]
 FONT_SIZE   = 12
 FONT_FAMILY = "JetBrains Mono"
@@ -19,24 +19,18 @@ FONT_PATH_ITALIC  = "font/JetBrainsMono/JetBrainsMono-Italic.woff2"
 # Texte (chaque variable texte correspond à un morceau de ligne)
 # =====================================================================
 
-txt00  = "                "
+txt00  = "        "
 txt01  = "Hi! I'm Nathan. Welcome to my GitHub profile."
 txt_s  = ""
-txt1   = "--------------------- Numerical & Computing Environment ---------------------"
-txt20  = "Operating systems";     txt21 = " ..................................... "; txt22 = "MacOS, Linux, Windows"
-txt30  = "Programming languages"; txt31 = " .................................. ";    txt32 = "Python, Fortran, C++"
-txt40  = "Libraries";             txt41 = " .......................... ";            txt42 = "NumPy, SciPy, Matplotlib, Pandas, LAPACK"
-txt50  = "Miscellaneous";         txt51 = " .................................... ";  txt52 = "OpenMP, LaTeX, Conda, HDF5"
+txt1   = "------------ Numerical & Computing Environment ------------"
+txt20  = "Operating systems";     txt21 = " .................................... "; txt22 = "Unix"
+txt30  = "Programming languages"; txt31 = " ............. "; txt32 = "Python, Fortran, MATLAB"
+txt40  = "HPC tools";             txt41 = " ................................... "; txt42 = "OpenMP, SLURM"
 txt_s  = ""
-txt6   = "---------------------------- Theoretical Physics ----------------------------"
-txt70  = "Magnetohydrodynamics";  txt71 = " .... ";                  txt72 = "Plasma physics, Fluid dynamics, Maxwell’s equations"
-txt80  = "Thermodynamics";        txt81 = " ..................... "; txt82 = "Statistical physics, Transport phenomena"
-txt90  = "Classical mechanics";   txt91 = " .............. ";        txt92 = "Celestial mechanics, Hamiltonian mechanics"
-txt_s  = ""
-txt10  = "----------------------------- Contact & Profile -----------------------------"
-txt110 = "Email";                 txt111 = " ......................................... ";                    txt112 = "nathan.zimniak@protonmail.com"
-txt120 = "GitHub";                txt121 = " ........................................................ ";     txt122 = "nathanzimniak"
-txt130 = "LeetCode";              txt131 = " ............................................................ "; txt132 = "Nathzed"
+txt10  = "-------------------- Contact & Profile --------------------"
+txt110 = "Email";                 txt111 = " ....................... ";                    txt112 = "nathan.zimniak@protonmail.com"
+txt120 = "GitHub";                txt121 = " ...................................... ";     txt122 = "nathanzimniak"
+txt130 = "LinkedIn";              txt131 = " ................................... ";     txt132 = "Nathan Zimniak"
 
 # =====================================================================
 # Couleurs
@@ -62,11 +56,6 @@ color1   = color_prim
 color20  = color_subsection; color21 = color_gray; color22 = color_subsubsection
 color30  = color_subsection; color31 = color_gray; color32 = color_subsubsection
 color40  = color_subsection; color41 = color_gray; color42 = color_subsubsection
-color50  = color_subsection; color51 = color_gray; color52 = color_subsubsection
-color6   = color_prim
-color70  = color_subsection; color71 = color_gray; color72 = color_subsubsection
-color80  = color_subsection; color81 = color_gray; color82 = color_subsubsection
-color90  = color_subsection; color91 = color_gray; color92 = color_subsubsection
 color10  = color_prim
 color110 = color_subsection; color111 = color_gray; color112 = color_subsubsection
 color120 = color_subsection; color121 = color_gray; color122 = color_subsubsection
@@ -84,11 +73,6 @@ bold1   = is_bold
 bold20  = is_bold; bold21 = is_bold; bold22 = is_bold
 bold30  = is_bold; bold31 = is_bold; bold32 = is_bold
 bold40  = is_bold; bold41 = is_bold; bold42 = is_bold
-bold50  = is_bold; bold51 = is_bold; bold52 = is_bold
-bold6   = is_bold
-bold70  = is_bold; bold71 = is_bold; bold72 = is_bold
-bold80  = is_bold; bold81 = is_bold; bold82 = is_bold
-bold90  = is_bold; bold91 = is_bold; bold92 = is_bold
 bold10  = is_bold
 bold110 = is_bold; bold111 = is_bold; bold112 = is_bold
 bold120 = is_bold; bold121 = is_bold; bold122 = is_bold
@@ -118,25 +102,6 @@ snippet = [
     [{"text": txt40, "color": color40, "bold": bold40},
      {"text": txt41, "color": color41, "animate_letters": True, "highlight_color": color_grey, "highlight_cycle": 3.0, "bold": bold41},
      {"text": txt42, "color": color42, "bold": bold42}],
-    # Ligne 5
-    [{"text": txt50, "color": color50, "bold": bold50},
-     {"text": txt51, "color": color51, "animate_letters": True, "highlight_color": color_grey, "highlight_cycle": 3.0, "bold": bold51},
-     {"text": txt52, "color": color52, "bold": bold52}],
-    # Ligne 6
-    [{"text": txt_s}],
-    [{"text": txt6, "color": color6, "bold": bold6}],
-    # Ligne 7
-    [{"text": txt70, "color": color70, "bold": bold70},
-     {"text": txt71, "color": color71, "animate_letters": True, "highlight_color": color_grey, "highlight_cycle": 3.0, "bold": bold71},
-     {"text": txt72, "color": color72, "bold": bold72}],
-    # Ligne 8
-    [{"text": txt80, "color": color80, "bold": bold80},
-     {"text": txt81, "color": color81, "animate_letters": True, "highlight_color": color_grey, "highlight_cycle": 3.0, "bold": bold81},
-     {"text": txt82, "color": color82, "bold": bold82}],
-    # Ligne 9
-    [{"text": txt90, "color": color90, "bold": bold90},
-     {"text": txt91, "color": color91, "animate_letters": True, "highlight_color": color_grey, "highlight_cycle": 3.0, "bold": bold91},
-     {"text": txt92, "color": color92, "bold": bold92}],
     # Ligne 10
     [{"text": txt_s}],
     [{"text": txt10, "color": color10, "bold": bold10}],
