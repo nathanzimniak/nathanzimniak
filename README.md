@@ -2,13 +2,13 @@
 
 I develop numerical simulations for complex physical systems, with a focus on high-performance scientific computing.
 
-> ### Core expertise
+> ### Expertise
 
 - 🧲 **Physics**: *Magnetohydrodynamics* - *Plasma physics* - *Astrophysics*
 
 - 🧩 **Scientific computing**: *Computational fluid dynamics* - *Finite-Volume Method* - *High-performance computing*
 
-> ### Tech stack
+> ### Technical Stack
 
 - 🌐 **Languages**: *Python* - *Fortran* - *C++* - *Matlab*
 
