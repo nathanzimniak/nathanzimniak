@@ -18,3 +18,5 @@ PhD in Astrophysics specializing in numerical modeling. Experienced in magnetohy
 - **[multiphysics-fvm](https://github.com/nathanzimniak/multiphysics-fvm)**: A finite-volume solver designed for multiphysics simulations.
 - **[nbody-solver](https://github.com/nathanzimniak/nbody-solver)**: A gravitational N-body solver.
 - **[maes](https://github.com/nathanzimniak/maes)**: A MHD solver for magnetized astrophysical disks and outflows.
+
+---
