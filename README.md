@@ -1,4 +1,4 @@
-I develop numerical simulations for complex physical systems, with a focus on high-performance scientific computing.
+PhD in Astrophysics specializing in numerical modeling and high-performance scientific computing. Experienced in MHD and plasma physics, with a strong track record in developing scientific simulation codes, modeling complex physical systems, and leading large-scale HPC simulation campaigns.
 
 > ### Expertise
 
