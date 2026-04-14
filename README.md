@@ -1,16 +1,18 @@
-Hi. I’m Nathan. I develop numerical simulations for complex physical systems.
+### Hi. I’m Nathan.
+
+I develop numerical simulations for complex physical systems, with a focus on high-performance scientific computing and multiphysics modeling.
 
 > ### Core expertise
 
-- **Physics**: *Magnetohydrodynamics* | *Plasma physics* | *Astrophysics*
+- **Physics**: *Magnetohydrodynamics* - *Plasma physics* - *Astrophysics*
 
-- **Scientific computing**: *Computational fluid dynamics* | *Finite-Volume Method* | *High-performance computing*
+- **Scientific computing**: *Computational fluid dynamics* - *Finite-Volume Method* - *High-performance computing*
 
 > ### Tech stack
 
-- **Languages**: *Python* | *Fortran* | *C++* | *Matlab*
+- **Languages**: *Python* - *Fortran* - *C++* - *Matlab*
 
-- **HPC tools**: *OpenMP* | *MPI* | *CUDA* | *Slurm*
+- **HPC tools**: *OpenMP* - *MPI* - *CUDA* - *Slurm*
 
 > ### Main projects
 
