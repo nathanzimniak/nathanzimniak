@@ -4,15 +4,15 @@ I develop numerical simulations for complex physical systems, with a focus on hi
 
 > ### Core expertise
 
-- <sub><sup>🧲</sup></sub> **Physics**: *Magnetohydrodynamics* - *Plasma physics* - *Astrophysics*
+- 🧲 **Physics**: *Magnetohydrodynamics* - *Plasma physics* - *Astrophysics*
 
-- <sub><sup>🧩</sup></sub> **Scientific computing**: *Computational fluid dynamics* - *Finite-Volume Method* - *High-performance computing*
+- 🧩 **Scientific computing**: *Computational fluid dynamics* - *Finite-Volume Method* - *High-performance computing*
 
 > ### Tech stack
 
-- <sub><sup>🌐</sup></sub> **Languages**: *Python* - *Fortran* - *C++* - *Matlab*
+- 🌐 **Languages**: *Python* - *Fortran* - *C++* - *Matlab*
 
-- <sub><sup>⚡️</sup></sub> **HPC tools**: *OpenMP* - *MPI* - *CUDA* - *Slurm*
+- ⚡️ **HPC tools**: *OpenMP* - *MPI* - *CUDA* - *Slurm*
 
 > ### Main projects
 
