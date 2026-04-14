@@ -6,17 +6,17 @@ I develop numerical simulations for complex physical systems.
 
 ### Tech stack
 
-Languages: Python, Fortran, C++, Matlab
+- **Languages**: Python | Fortran | C++ | Matlab
 
-HPC tools: OpenMP, MPI, CUDA, Slurm
+- **HPC tools**: OpenMP | MPI | CUDA | Slurm
 
 ---
 
 ### Core expertise
 
-Physics: Magnetohydrodynamics (MHD), Plasma physics
+- **Physics**: Magnetohydrodynamics (*MHD*) | Plasma physics
 
-Scientific computing: Computational fluid dynamics (CFD), Finite-Volume Method (FVM), High-performance computing (HPC)
+- **Scientific computing**: Computational fluid dynamics (*CFD*) | Finite-Volume Method (*FVM*) | High-performance computing (*HPC*)
 
 ---
 
@@ -30,9 +30,8 @@ Scientific computing: Computational fluid dynamics (CFD), Finite-Volume Method (
 
 ### Connect
 
-Email: nathan.zimniak@protonmail.com
-
-Website: https://nathanzimniak.github.io
+- **Email**: nathan.zimniak@protonmail.com
+- **Website**: https://nathanzimniak.github.io
 
 
 
