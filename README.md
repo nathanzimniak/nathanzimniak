@@ -1,5 +1,3 @@
-### Hi. I’m Nathan.
-
 I develop numerical simulations for complex physical systems, with a focus on high-performance scientific computing.
 
 > ### Expertise
