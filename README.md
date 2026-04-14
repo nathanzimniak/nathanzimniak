@@ -22,22 +22,11 @@ I develop numerical simulations for complex physical systems.
 
 ### Main projects
 
-<table>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/nathanzimniak/multiphysics-fvm"><strong>multiphysics-fvm</strong></a></td>
-      <td>A finite-volume solver designed for multiphysics simulations.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nathanzimniak/nbody-solver"><strong>nbody-solver</strong></a></td>
-      <td>A gravitational N-body solver.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/nathanzimniak/maes"><strong>maes</strong></a></td>
-      <td>A MHD solver for magnetized astrophysical disks and outflows.</td>
-    </tr>
-  </tbody>
-</table>
+🔹 **[multiphysics-fvm](https://github.com/nathanzimniak/multiphysics-fvm)**: A finite-volume solver designed for multiphysics simulations.
+
+🔹 **[nbody-solver](https://github.com/nathanzimniak/nbody-solver)**: A gravitational N-body solver.
+
+🔹 **[maes](https://github.com/nathanzimniak/maes)**: A MHD solver for magnetized astrophysical disks and outflows.
 
 ---
 
@@ -63,6 +52,24 @@ I develop numerical simulations for complex physical systems.
 - **[multiphysics-fvm](https://github.com/nathanzimniak/multiphysics-fvm)**: A finite-volume solver designed for multiphysics simulations.
 - **[nbody-solver](https://github.com/nathanzimniak/nbody-solver)**: A gravitational N-body solver.
 - **[maes](https://github.com/nathanzimniak/maes)**: A MHD solver for magnetized astrophysical disks and outflows.
+
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/nathanzimniak/multiphysics-fvm"><strong>multiphysics-fvm</strong></a></td>
+      <td>A finite-volume solver designed for multiphysics simulations.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nathanzimniak/nbody-solver"><strong>nbody-solver</strong></a></td>
+      <td>A gravitational N-body solver.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nathanzimniak/maes"><strong>maes</strong></a></td>
+      <td>A MHD solver for magnetized astrophysical disks and outflows.</td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
   <a href="https://github.com/nathanzimniak/nathanzimniak">
