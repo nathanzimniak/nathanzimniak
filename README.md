@@ -1,6 +1,6 @@
 ### Hi. I’m Nathan.
 
-I develop numerical simulations for complex physical systems, with a focus on high-performance scientific computing and multiphysics modeling.
+I develop numerical simulations for complex physical systems, with a focus on high-performance scientific computing.
 
 > ### Core expertise
 
