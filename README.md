@@ -4,7 +4,7 @@ I develop numerical simulations for complex physical systems, with a focus on hi
 
 > ### Core expertise
 
-- **Physics**: *Magnetohydrodynamics* - *Plasma physics* - *Astrophysics*
+- <sub><sup>🧲</sup></sub> **Physics**: *Magnetohydrodynamics* - *Plasma physics* - *Astrophysics*
 
 - **Scientific computing**: *Computational fluid dynamics* - *Finite-Volume Method* - *High-performance computing*
 
