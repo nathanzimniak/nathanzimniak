@@ -4,7 +4,7 @@ I develop numerical simulations for complex physical systems.
 
 ---
 
-### Core expertise
+### *Core expertise*
 
 - **Physics**: Magnetohydrodynamics | Plasma physics | Astrophysics
 
@@ -12,7 +12,7 @@ I develop numerical simulations for complex physical systems.
 
 ---
 
-### Tech stack
+### *Tech stack*
 
 - **Languages**: Python | Fortran | C++ | Matlab
 
@@ -20,7 +20,7 @@ I develop numerical simulations for complex physical systems.
 
 ---
 
-### Main projects
+### *Main projects*
 
 - **[multiphysics-fvm](https://github.com/nathanzimniak/multiphysics-fvm)**: A finite-volume solver designed for multiphysics simulations.
 
