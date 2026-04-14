@@ -28,13 +28,9 @@ I develop numerical simulations for complex physical systems.
 
 🔸 **[maes](https://github.com/nathanzimniak/maes)**: A MHD solver for magnetized astrophysical disks and outflows.
 
----
 
-### Connect
 
-🔹 **Email**: nathan.zimniak@protonmail.com
 
-🔹 **Website**: https://nathanzimniak.github.io
 
 
 
