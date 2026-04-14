@@ -1,6 +1,4 @@
-### Hi. I’m Nathan.
-
-I develop numerical simulations for complex physical systems.
+Hi. I’m Nathan. I develop numerical simulations for complex physical systems.
 
 > ### Core expertise
 
