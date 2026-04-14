@@ -4,19 +4,19 @@ I develop numerical simulations for complex physical systems.
 
 ---
 
+### Core expertise
+
+- **Physics**: Magnetohydrodynamics | Plasma physics | Astrophysics
+
+- **Scientific computing**: Computational fluid dynamics | Finite-Volume Method | High-performance computing
+
+---
+
 ### Tech stack
 
 - **Languages**: Python | Fortran | C++ | Matlab
 
 - **HPC tools**: OpenMP | MPI | CUDA | Slurm
-
----
-
-### Core expertise
-
-- **Physics**: Magnetohydrodynamics (*MHD*) | Plasma physics
-
-- **Scientific computing**: Computational fluid dynamics (*CFD*) | Finite-Volume Method (*FVM*) | High-performance computing (*HPC*)
 
 ---
 
