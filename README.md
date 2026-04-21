@@ -13,7 +13,7 @@ PhD in Astrophysics<sup>[1]</sup> specializing in numerical modeling. Experience
 > ### Technical Stack
 
 - 🌐 **Languages**: *Python* — *Fortran* — *C++* — *MATLAB*
-- ⚡️ **HPC tools**: *OpenMP* — *MPI* — *Slurm*
+- ⚡️ **HPC tools**: *OpenMP* — *MPI* — *Slurm/OAR*
 
 > ### Main projects
 
