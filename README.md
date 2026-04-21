@@ -2,7 +2,7 @@
 
 > ### About me
 
-PhD in Astrophysics<sup>[1]</sup> specializing in numerical modeling. Experienced in magnetohydrodynamics (MHD) and plasma physics, with a strong track record in developing scientific simulation codes, modeling complex physical systems, and leading large-scale high-performance computing (HPC) simulation campaigns. I also write computational course notes for my own use<sup>[2]</sup>.
+PhD in Astrophysics<sup>[1]</sup> specializing in numerical modeling. Experienced in magnetohydrodynamics (MHD) and plasma physics, with a track record in developing scientific simulation codes, modeling complex physical systems, and leading large-scale high-performance computing (HPC) simulation campaigns. I also write computational course notes for my own use<sup>[2]</sup>.
 
 
 > ### Expertise
